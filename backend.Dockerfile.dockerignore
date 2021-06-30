@@ -1,0 +1,10 @@
+.git/
+service-python
+frontend/
+.gitignore
+LICENSE
+README.md
+backend-*
+backend.*
+frontend-*
+frontend.*
